@@ -1,0 +1,112 @@
+States,Soil_Types ,Percentage,Nitrogen,Phosphorus,Potassium
+Andhra Pradesh,Red Soil,66%,63.92,42.51,40.01
+Andhra Pradesh,Black Soil,25%,63.92,42.51,40.01
+Andhra Pradesh,Alluvial Soil,5%,63.92,42.51,40.01
+Andhra Pradesh,Laterite Soil,4%,63.92,42.51,40.01
+Arunachal Pradesh,Mountain Soil,60%,85.98,44.9,48.43
+Arunachal Pradesh,Forest Soil,35%,85.98,44.9,48.43
+Arunachal Pradesh,Alluvial Soil,5%,85.98,44.9,48.43
+Assam,Alluvial Soil,50%,79.38,43.3,55.3
+Assam,Forest Soil,30%,79.38,43.3,55.3
+Assam,Mountain Soil,15%,79.38,43.3,55.3
+Assam,Laterite Soil,5%,79.38,43.3,55.3
+Bihar,Alluvial Soil,80%,69.66,40.92,39.22
+Bihar,Red Soil,10%,69.66,40.92,39.22
+Bihar,Peaty and Marshy Soil,5%,69.66,40.92,39.22
+Bihar,Saline Soil,5%,69.66,40.92,39.22
+Goa ,Laterite Soil,60%,72.59,42.96,38.52
+Goa ,Alluvial Soil,25%,72.59,42.96,38.52
+Goa ,Forest Soil,15%,72.59,42.96,38.52
+Gujarat,Black Soil,40%,77.12,39.67,36.52
+Gujarat,Alluvial Soil,30%,77.12,39.67,36.52
+Gujarat,Desert Soil,20%,77.12,39.67,36.52
+Gujarat,Saline Soil,10%,77.12,39.67,36.52
+Haryana,Alluvial Soil,75%,78.86,40.28,40.06
+Haryana,Arid Soil,15%,78.86,40.28,40.06
+Haryana,Saline Soil,10%,78.86,40.28,40.06
+Jammu & Kashmir,Mountain Soil,60%,78.3,40.27,39.41
+Jammu & Kashmir,Forest Soil,30%,78.3,40.27,39.41
+Jammu & Kashmir,Alluvial Soil,10%,78.3,40.27,39.41
+Karnataka,Red Soil,48%,67.23,45.38,41.42
+Karnataka,Black Soil,30%,67.23,45.38,41.42
+Karnataka,Laterite Soil,15%,67.23,45.38,41.42
+Karnataka,Alluvial Soil,7%,67.23,45.38,41.42
+Kerala,Laterite Soil,60%,74,44.26,64.82
+Kerala,Forest Soil,20%,74,44.26,64.82
+Kerala,Peaty and Marshy Soil,15%,74,44.26,64.82
+Kerala,Alluvial Soil,5%,74,44.26,64.82
+Madhya Pradesh,Black Soil,45%,68.57,39,43.78
+Madhya Pradesh,Red Soil,30%,68.57,39,43.78
+Madhya Pradesh,Alluvial Soil,15%,68.57,39,43.78
+Madhya Pradesh,Forest Soil,10%,68.57,39,43.78
+Maharashtra,Black Soil,50%,63.01,42.26,29.95
+Maharashtra,Red Soil,30%,63.01,42.26,29.95
+Maharashtra,Alluvial Soil,15%,63.01,42.26,29.95
+Maharashtra,Laterite Soil,5%,63.01,42.26,29.95
+Manipur,Mountain Soil,50%,84.96,48.18,53.61
+Manipur,Forest Soil,40%,84.96,48.18,53.61
+Manipur,Alluvial Soil,10%,84.96,48.18,53.61
+Meghalaya,Laterite Soil,45%,77.81,43.59,57.19
+Meghalaya,Forest Soil,35%,77.81,43.59,57.19
+Meghalaya,Mountain Soil,20%,77.81,43.59,57.19
+Mizoram,Forest Soil,50%,78.98,42.59,34.28
+Mizoram,Mountain Soil,40%,78.98,42.59,34.28
+Mizoram,Alluvial Soil,10%,78.98,42.59,34.28
+Nagaland,Forest Soil,45%,69.22,43.52,36.99
+Nagaland,Mountain Soil,45%,69.22,43.52,36.99
+Nagaland,Alluvial Soil,10%,69.22,43.52,36.99
+Odisha,Red Soil,40%,60.95,39.05,36.93
+Odisha,Laterite Soil,30%,60.95,39.05,36.93
+Odisha,Alluvial Soil,20%,60.95,39.05,36.93
+Odisha,Forest Soil,10%,60.95,39.05,36.93
+Orissa,Red Soil,40%,60.95,39.05,36.93
+Orissa,Laterite Soil,30%,60.95,39.05,36.93
+Orissa,Alluvial Soil,20%,60.95,39.05,36.93
+Orissa,Forest Soil,10%,60.95,39.05,36.93
+Punjab,Alluvial Soil,85%,67.57,35.82,29.15
+Punjab,Arid Soil,10%,67.57,35.82,29.15
+Punjab,Saline Soil,5%,67.57,35.82,29.15
+Rajasthan,Desert Soil,45%,69.83,37.38,40.97
+Rajasthan,Arid Soil,30%,69.83,37.38,40.97
+Rajasthan,Alluvial Soil,15%,69.83,37.38,40.97
+Rajasthan,Red Soil,10%,69.83,37.38,40.97
+Tamil Nadu,Red Soil,45%,65.63,43.64,45.58
+Tamil Nadu,Black Soil,25%,65.63,43.64,45.58
+Tamil Nadu,Laterite Soil,15%,65.63,43.64,45.58
+Tamil Nadu,Alluvial Soil,15%,65.63,43.64,45.58
+Telangana,Red Soil,48%,63.06,42.38,37.61
+Telangana,Black Soil,42%,63.06,42.38,37.61
+Telangana,Alluvial Soil,10%,63.06,42.38,37.61
+Uttar Pradesh,Alluvial Soil,80%,74.43,41.16,41.55
+Uttar Pradesh,Saline and Alkaline Soil,12%,74.43,41.16,41.55
+Uttar Pradesh,Forest Soil,8%,74.43,41.16,41.55
+West Bengal,Alluvial Soil,65%,65.46,40.86,42.76
+West Bengal,Red Soil,20%,65.46,40.86,42.76
+West Bengal,Forest Soil,10%,65.46,40.86,42.76
+West Bengal,Saline Soil,5%,65.46,40.86,42.76
+Himachal Pradesh,Mountain Soil,70%,68.12,41.2,40.06
+Himachal Pradesh,Forest Soil,20%,68.12,41.2,40.06
+Himachal Pradesh,Alluvial Soil,10%,68.12,41.2,40.06
+Chandigarh,Alluvial Soil,100%,97.94,46.51,46.83
+Dadar & Nagar Haveli,Alluvial Soil,60%,70,40.98,33.05
+Dadar & Nagar Haveli,Coastal Soil,40%,70,40.98,33.05
+Puducherry,Alluvial Soil,60%,67.47,42.91,41.22
+Puducherry,Red Soil,40%,67.47,42.91,41.22
+Sikkim,Mountain Soil,70%,63.14,42.14,30.36
+Sikkim,Forest Soil,25%,63.14,42.14,30.36
+Sikkim,Alluvial Soil,5%,63.14,42.14,30.36
+Tripura,Forest Soil,45%,71.47,37.62,30.13
+Tripura,Mountain Soil,35%,71.47,37.62,30.13
+Tripura,Alluvial Soil,20%,71.47,37.62,30.13
+Andaman & Nicobar Islands,Forest Soil,60%,79.32,47.71,71.1
+Andaman & Nicobar Islands,Coastal Alluvial Soil,40%,79.32,47.71,71.1
+Chattisgarh,Red and Yellow Soils,45%,61.79,42.55,41.99
+Chattisgarh,Black Soil,30%,61.79,42.55,41.99
+Chattisgarh,Alluvial Soil,15%,61.79,42.55,41.99
+Chattisgarh,Forest Soil,10%,61.79,42.55,41.99
+Uttarakhand,Mountain Soil,65%,73.25,43.57,41.07
+Uttarakhand,Forest Soil,25%,73.25,43.57,41.07
+Uttarakhand,Alluvial Soil,10%,73.25,43.57,41.07
+Jharkhand,Red Soil,70%,91.86,43.64,42.73
+Jharkhand,Alluvial Soil,20%,91.86,43.64,42.73
+Jharkhand,Forest Soil,10%,91.86,43.64,42.73

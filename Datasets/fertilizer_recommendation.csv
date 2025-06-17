@@ -1,0 +1,166 @@
+Temperature,Humidity,Soil Moisture,Soil Type,Crop Type,Nitrogen,Potassium,Phosphorus,Fertilizer Name
+26,52,38,Sandy,Maize,37,0,0,Urea
+29,52,45,Loamy,Sugarcane,12,0,36,DAP
+34,65,62,Black,Cotton,7,9,30,14-35-14
+32,62,34,Red,Tobacco,22,0,20,28-28
+28,54,46,Clayey,Paddy,35,0,0,Urea
+26,52,35,Sandy,Barley,12,10,13,17-17-17
+25,50,64,Red,Cotton,9,0,10,20-20
+33,64,50,Loamy,Wheat,41,0,0,Urea
+30,60,42,Sandy,Millets,21,0,18,28-28
+29,58,33,Black,Oil seeds,9,7,30,14-35-14
+27,54,28,Clayey,Pulses,13,0,40,DAP
+31,62,48,Sandy,Maize,14,15,12,17-17-17
+25,50,65,Loamy,Cotton,36,0,0,Urea
+32,62,41,Clayey,Paddy,24,0,22,28-28
+26,52,31,Red,Ground Nuts,14,0,41,DAP
+31,62,49,Black,Sugarcane,10,13,14,17-17-17
+33,64,34,Clayey,Pulses,38,0,0,Urea
+25,50,39,Sandy,Barley,21,0,19,28-28
+28,54,65,Black,Cotton,39,0,0,Urea
+29,58,52,Loamy,Wheat,13,0,36,DAP
+30,60,44,Sandy,Millets,10,0,9,20-20
+34,65,53,Loamy,Sugarcane,12,14,12,17-17-17
+35,68,33,Red,Tobacco,11,0,37,DAP
+28,54,37,Black,Millets,36,0,0,Urea
+33,64,39,Clayey,Paddy,13,0,10,20-20
+26,52,44,Sandy,Maize,23,0,20,28-28
+30,60,63,Red,Cotton,9,9,29,14-35-14
+32,62,30,Loamy,Sugarcane,38,0,0,Urea
+37,70,32,Black,Oil seeds,12,0,39,DAP
+26,52,36,Clayey,Pulses,14,0,13,20-20
+29,58,40,Red,Ground Nuts,24,0,23,28-28
+30,60,27,Loamy,Sugarcane,12,0,40,DAP
+34,65,38,Clayey,Paddy,39,0,0,Urea
+36,68,38,Sandy,Barley,7,9,30,14-35-14
+26,52,48,Loamy,Wheat,23,0,19,28-28
+28,54,35,Black,Millets,41,0,0,Urea
+30,60,61,Loamy,Cotton,8,10,31,14-35-14
+37,70,37,Clayey,Paddy,12,0,41,DAP
+25,50,26,Red,Ground Nuts,15,14,11,17-17-17
+29,58,34,Sandy,Millets,15,0,37,DAP
+27,54,30,Clayey,Pulses,13,0,13,20-20
+30,60,58,Loamy,Sugarcane,10,7,32,14-35-14
+32,62,34,Red,Tobacco,22,0,24,28-28
+34,65,60,Black,Sugarcane,35,0,0,Urea
+35,67,42,Sandy,Barley,10,0,35,DAP
+38,70,48,Loamy,Wheat,8,8,28,14-35-14
+26,52,32,Black,Oil seeds,12,0,8,20-20
+29,58,43,Clayey,Paddy,24,0,18,28-28
+30,60,29,Red,Ground Nuts,41,0,0,Urea
+33,64,51,Sandy,Maize,5,9,29,14-35-14
+34,65,31,Red,Tobacco,23,0,21,28-28
+36,68,33,Black,Oil seeds,13,0,14,20-20
+28,54,38,Clayey,Pulses,40,0,0,Urea
+30,60,47,Sandy,Barley,12,0,42,DAP
+31,62,63,Red,Cotton,11,12,15,17-17-17
+27,53,43,Black,Millets,23,0,24,28-28
+34,65,54,Loamy,Wheat,38,0,0,Urea
+29,58,37,Sandy,Millets,8,0,15,20-20
+25,50,56,Loamy,Sugarcane,11,13,15,17-17-17
+32,62,34,Red,Ground Nuts,15,0,37,DAP
+28,54,41,Clayey,Paddy,36,0,0,Urea
+30,60,49,Loamy,Wheat,13,0,9,20-20
+34,65,64,Black,Cotton,24,0,20,28-28
+28,54,47,Sandy,Barley,5,18,15,10-26-26
+27,53,35,Black,Oil seeds,37,0,0,Urea
+36,68,62,Red,Cotton,15,0,40,DAP
+34,65,57,Black,Sugarcane,9,0,13,20-20
+29,58,55,Loamy,Sugarcane,8,8,33,14-35-14
+25,50,40,Clayey,Pulses,6,19,16,10-26-26
+30,60,38,Sandy,Millets,10,0,14,20-20
+26,52,39,Clayey,Pulses,21,0,23,28-28
+31,62,32,Red,Tobacco,39,0,0,Urea
+34,65,48,Loamy,Wheat,23,0,19,28-28
+27,53,34,Black,Oil seeds,42,0,0,Urea
+33,64,31,Red,Ground Nuts,13,0,39,DAP
+29,58,42,Clayey,Paddy,9,10,22,14-35-14
+30,60,47,Sandy,Maize,22,0,21,28-28
+27,53,59,Loamy,Sugarcane,10,0,15,20-20
+26,52,36,Clayey,Pulses,7,16,20,10-26-26
+34,65,63,Red,Cotton,14,0,38,DAP
+28,54,43,Clayey,Paddy,10,8,29,14-35-14
+30,60,40,Sandy,Millets,41,0,0,Urea
+29,58,65,Black,Cotton,14,0,35,DAP
+26,52,59,Loamy,Sugarcane,11,0,9,20-20
+31,62,44,Sandy,Barley,21,0,28,28-28
+35,67,28,Clayey,Pulses,8,7,31,14-35-14
+29,58,30,Red,Tobacco,13,17,16,10-26-26
+27,53,30,Black,Millets,35,0,0,Urea
+36,68,50,Loamy,Wheat,12,18,19,10-26-26
+29,58,61,Loamy,Cotton,11,0,38,DAP
+30,60,26,Black,Oil seeds,8,9,30,14-35-14
+34,65,45,Clayey,Paddy,6,19,21,10-26-26
+36,68,41,Red,Ground Nuts,41,0,0,Urea
+28,54,25,Sandy,Maize,9,10,30,14-35-14
+25,50,32,Clayey,Pulses,24,0,19,28-28
+30,60,27,Red,Tobacco,4,17,17,10-26-26
+38,72,51,Loamy,Wheat,39,0,0,Urea
+36,60,43,Sandy,Millets,15,0,41,DAP
+29,58,57,Black,Sugarcane,12,0,10,20-20
+34,71,43,Black Soil,apple,56,0,60,Urea
+28,63,35,Sandy,apple,42,15,69,17-17-17
+30,64,39,Red,apple,25,0,33,DAP
+27,67,32,Clayey,banana,48,0,77,DAP
+30,69,38,Red,banana,65,0,62,Urea
+24,66,44,Alluvial,banana,50,16,0,14-35-14
+29,68,37,Sandy,banana,37,11,42,28-28
+33,61,41,Silty,blackgram,58,0,65,DAP
+29,70,36,Black Soil,blackgram,45,19,0,28-28
+27,60,39,Clayey,chickpea,53,0,71,Urea
+25,72,46,Laterite,chickpea,47,13,67,17-17-17
+30,63,33,Silty,chickpea,39,15,59,DAP
+33,66,44,Red,chickpea,60,0,0,Urea
+32,62,40,Loamy,coconut,49,20,0,DAP
+28,64,37,Sandy,coconut,46,0,66,Urea
+30,65,34,Alluvial,coconut,44,17,51,17-17-17
+26,60,38,Red,coconut,39,11,65,14-35-14
+31,66,40,Clayey,coconut,56,13,35,28-28
+30,65,34,Alluvial,coffee,61,18,72,28-28
+26,69,42,Red,coffee,55,0,64,DAP
+33,67,36,Sandy,coffee,38,16,40,Urea
+34,73,33,Loamy,grapes,59,12,75,17-17-17
+29,66,45,Peaty,grapes,52,0,61,Urea
+35,70,38,Red,grapes,64,0,34,28-28
+30,65,44,Alluvial,grapes,41,13,61,DAP
+31,60,31,Silty,jute,54,17,59,14-35-14
+27,68,48,Chalky,jute,44,0,58,DAP
+35,67,30,Black Soil,kidney beans,60,15,74,Urea
+32,62,40,Clayey,kidney beans,49,0,63,17-17-17
+30,61,39,Loamy,kidney beans,41,12,65,14-35-14
+28,64,37,Red,lentil,46,16,66,DAP
+30,65,34,Sandy,lentil,61,0,72,28-28
+27,66,32,Silty,lentil,55,17,42,Urea
+29,68,39,Black Soil,lentil,34,15,60,17-17-17
+26,69,42,Alluvial,mango,55,0,64,Urea
+34,73,33,Loamy,mango,59,12,75,14-35-14
+31,67,36,Clayey,mango,43,0,49,28-28
+29,66,45,Peaty,mothbeans,52,0,61,DAP
+31,60,31,Silty,mothbeans,54,17,59,28-28
+27,68,48,Chalky,mothbeans,44,0,58,Urea
+33,65,41,Black Soil,mothbeans,36,11,42,14-35-14
+35,67,30,Black Soil,mungbean,60,15,74,17-17-17
+32,62,40,Clayey,mungbean,49,0,63,DAP
+28,64,37,Red,orange,46,16,66,Urea
+30,65,34,Sandy,orange,61,0,72,14-35-14
+33,68,39,Loamy,orange,39,18,53,28-28
+26,69,42,Alluvial,muskmelon,55,0,64,DAP
+34,73,33,Loamy,muskmelon,59,12,75,28-28
+29,66,45,Peaty,papaya,52,0,61,Urea
+31,60,31,Silty,papaya,54,17,59,17-17-17
+27,68,48,Chalky,papaya,44,0,58,Urea
+35,67,30,Black Soil,papaya,60,15,74,14-35-14
+32,62,40,Clayey,pigeonpeas,49,0,63,DAP
+28,64,37,Red,pigeonpeas,46,16,66,Urea
+30,65,34,Sandy,pigeonpeas,61,0,72,14-35-14
+26,69,42,Alluvial,pigeonpeas,55,0,64,DAP
+34,73,33,Loamy,pomegranate,59,12,75,28-28
+29,66,45,Peaty,pomegranate,52,0,61,Urea
+31,60,31,Silty,pomegranate,54,17,59,17-17-17
+27,68,48,Chalky,pomegranate,44,0,58,Urea
+28,64,37,Red,watermelon,46,16,66,Urea
+30,65,34,Sandy,watermelon,61,0,72,28-28
+29,67,42,Clayey,rice,51,0,69,Urea
+33,72,45,Sandy,rice,40,18,47,28-28
+27,66,36,Red,rice,58,0,0,DAP
+30,65,38,Alluvial,rice,46,14,39,17-17-17
