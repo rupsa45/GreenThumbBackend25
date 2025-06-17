@@ -22,7 +22,7 @@ app = FastAPI()
 # Add CORS Middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # Replace "*" with the frontend URL for better security
+    allow_origins=["https://green-thumb2025.vercel.app/"],  # Replace "*" with the frontend URL for better security
     allow_credentials=True,
     allow_methods=["*"],  # Allow all HTTP methods
     allow_headers=["*"],  # Allow all headers
